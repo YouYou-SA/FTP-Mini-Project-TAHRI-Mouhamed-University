@@ -7,7 +7,8 @@ Interactive Streamlit app for crop recommendation using machine learning. Predic
 🚀 Quick Start (2 minutes)
 Prerequisites
 Python 3.8+
-. Run Locally
+
+Run Locally
 streamlit run app.py
 App opens at: http://localhost:8501
 
